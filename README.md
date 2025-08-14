@@ -88,9 +88,9 @@ http://localhost:5173
 
 ---
 
-###🎯 Objetivo del proyecto
-
+### 🎯 Objetivo del proyecto
 --
+
 Crear una interfaz web moderna y responsiva para una librería online.
 
 Practicar el consumo de datos desde un backend en Node.js.
