@@ -22,7 +22,7 @@ Todos los componentes están construidos con **Bootstrap** para garantizar un di
 ## ⚠ Nota importante
 Este **frontend necesita que el backend esté activo** para funcionar correctamente.  
 El backend se encuentra en otro repositorio:  
-🔗 [Repositorio Backend - Node.js](https://github.com/usuario/backend-libreria) *(coloca aquí el enlace real)*
+🔗 [Repositorio Backend - Node.js](https://github.com/joansalcedo1/ejercicio_Back_libreria_react) *(coloca aquí el enlace real)*
 
 ---
 
